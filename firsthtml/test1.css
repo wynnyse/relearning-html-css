@@ -1,0 +1,91 @@
+body {
+    font-family: 'Comis Sans MS', cursive, sans-serif;
+    background-image: linear-gradient(to bottom, #fda2b1, #fbf6c4);
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: #fedfdf;
+    border: 2px solid #ff9cad;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    color: #faa8a8;
+    text-shadow: 2px 2px 5px #ffffff;
+}
+
+.logo {
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+nav {
+    text-align: center;
+}
+.navbar{
+    font-size: 15px;
+    font-family: 'Comis Sans MS', cursive, sans-serif;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    color: #ff9cad;
+    border: 2px solid #ff9cad;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: transform 0.3s ease
+}
+
+.navbar:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 2px 5px #ffffff;
+}
+
+.borders {
+    background-color: #faa8a8;
+    padding: 15px;
+    padding-top: 5px;
+    margin: 20px;
+    border-radius: 25px;
+    border: none;
+}
+
+.design {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.desc {
+    color: rgb(255, 255, 255);
+}
+
+.chara_desc {
+    color: rgb(255, 255, 255);
+}
+
+.chii{
+    text-align: center;
+    margin-top: 0px;
+}
+
+img {
+    transition: transform 0.3s ease;
+}
+img:hover {
+    transform: scale(1.10);
+}
+
+/*
+footer {
+    background-color: #ffeaea;
+    padding: 5px;
+    font-family: 'Verdana';
+    color: white;
+    text-align: center;
+}
+*/
