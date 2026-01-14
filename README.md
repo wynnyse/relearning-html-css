@@ -1,2 +1,2 @@
 # day-1-relearning-html-css
-i ditched calculus assignment for dis
+i cant code for shit
